@@ -2,14 +2,14 @@
 These are some of the basic examples that were written while I was exploring STM32F407VGT microcontroller.
 
 ## CAN-Input
-The code is for performing communication using [CANBUS] (
+The code is for performing communication using [CANBUS](
 https://en.wikipedia.org/wiki/CAN_bus) at 125kbps.
 
 ## RAJAT_ADC_InternalTemp_Poll
 The code is for getting internal temperature of the STM32F4 board using polling method.
 
 ## RAJAT_UART_IT_Mode
-The code is for communicating in interrupt mode via [UART] (https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter).
+The code is for communicating in interrupt mode via [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter).
 
 ## RAJAT_ADC_INTtemp_IT
 The code is for getting internal temperature of the STM32F4 board using interrupt method.
